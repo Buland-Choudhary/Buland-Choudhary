@@ -1,7 +1,7 @@
 # Hi there, I'm Buland Choudhary! 👋
 
 **Computer Engineering Student | Aspiring Software Engineer**  
-📍 Vancouver, Canada | 📧 [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) | ☎️ (778) 323-9621  
+📍 Vancouver, Canada | 📧 [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) 
 [LinkedIn](https://www.linkedin.com/in/buland-choudhary) | [GitHub](https://github.com/Buland-Choudhary)
 
 ---
@@ -27,7 +27,7 @@ _Vancouver, BC | September 2023 - April 2024_
 
 ## 🎓 Education
 **University of British Columbia, Vancouver**  
-_B.Sc. in Computer Engineering | September 2021 - Present_
+_B.Sc. in Computer Engineering | September 2021 - April 2025_
 
 - Specializing in Software Engineering
 - Currently maintaining an overall average of 87%
