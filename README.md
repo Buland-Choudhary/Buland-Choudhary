@@ -5,6 +5,8 @@
 [LinkedIn](https://www.linkedin.com/in/buland-choudhary) | [GitHub](https://github.com/Buland-Choudhary)
 
 ---
+<!-- ## GitHub
+[![trophy](https://github-profile-trophy.vercel.app/?username=Buland-Choudhary)](https://github.com/Buland-Choudhary/github-profile-trophy) -->
 
 ## About Me
 I'm a highly motivated final-year Computer Engineering student at the University of British Columbia (UBC), specializing in Software Engineering. With a strong foundation in problem-solving and mathematics, I’m eager to leverage my technical skills and creativity in a software engineering role. My goal is to contribute to impactful projects and continue growing as a developer.
