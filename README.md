@@ -1,8 +1,11 @@
-# Hi there, I'm Buland Choudhary! 👋
+# Hi there, I'm Buland Choudhary! 👋💻
 
-**Computer Engineering Student | Aspiring Software Engineer**  
-📍 Vancouver, Canada | 📧 [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) 
-[LinkedIn](https://www.linkedin.com/in/buland-choudhary) | [GitHub](https://github.com/Buland-Choudhary)
+**Computer Engineering Student | University of British Columbia**
+
+📍 Vancouver, Canada | 📧 [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) |
+[LinkedIn](https://www.linkedin.com/in/buland-choudhary)
+
+Portfolio [Link](https://buland-choudhary.github.io/)
 
 ---
 <!-- ## GitHub
