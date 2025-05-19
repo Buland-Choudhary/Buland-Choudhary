@@ -12,7 +12,7 @@ Portfolio [Link](https://buland-choudhary.github.io/)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Buland-Choudhary)](https://github.com/Buland-Choudhary/github-profile-trophy) -->
 
 ## About Me
-I'm a highly motivated final-year Computer Engineering student at the University of British Columbia (UBC), specializing in Software Engineering. With a strong foundation in problem-solving and mathematics, I’m eager to leverage my technical skills and creativity in a software engineering role. My goal is to contribute to impactful projects and continue growing as a developer.
+I'm a highly motivated Computer Engineer, recently graduated from the University of British Columbia (UBC), specializing in Software Engineering. With a strong foundation in problem-solving and mathematics, I’m eager to leverage my technical skills and creativity in a software engineering role. My goal is to contribute to impactful projects and continue growing as a developer.
 
 ## 🔧 Skills
 - **Languages:** Java, Python, C++, C, JavaScript, SQL, Assembly
@@ -24,11 +24,21 @@ I'm a highly motivated final-year Computer Engineering student at the University
 - **UBC Trek Excellence Scholarship 2022W** - $4000
 
 ## 💼 Experience
+
+**Web and Data Assistant, GONA Agro Ltd.**  
+_MP, India | May 2024 – Aug. 2024_
+
+- Improved website responsiveness by 40% by redesigning the UI using HTML, CSS, JavaScript, and React.
+- Reduced manual inventory errors by 30% through Python automation scripts for inventory tracking.
+- Cut processing delays by 15% by optimizing warehouse workflows in collaboration with the logistics team.
+
 **Teaching Assistant, UBC Math Department**  
 _Vancouver, BC | September 2023 - April 2024_
 
-- Assisted over 100 students in understanding complex mathematical concepts through class discussions and one-on-one support.
-- Developed strong instructional and communication skills by leading sessions for undergraduate math courses.
+- Supported over 150 students in mastering advanced calculus concepts through weekly tutorials and office hours
+- Boosted calculus comprehension scores by 20% by providing tailored academic support and strategic review session
+- Enhanced student performance by delivering thorough, actionable feedback on assignments and common error patterns
+
 
 ## 🎓 Education
 **University of British Columbia, Vancouver**  
