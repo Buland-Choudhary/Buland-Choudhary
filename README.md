@@ -1,6 +1,6 @@
 # Hi there, I'm Buland Choudhary! 👋💻
 
-**Computer Engineering Student | University of British Columbia**
+**Computer Engineer Graduate | University of British Columbia**
 
 📍 Vancouver, Canada | 📧 [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/buland-choudhary)
