@@ -19,7 +19,7 @@ I'm a highly motivated Software Developer, recently graduated from the Universit
 
 ## 💼 Experience
 
-**Web and Data Assistant, GONA Agro Ltd.**  
+**Backend Developer, GONA Agro Ltd.**  
 _MP, India | May 2024 – Aug. 2024_
 
 - Developed RESTful APIs in Node.js with Express for managing crop inventory and supplier records
