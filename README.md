@@ -19,19 +19,11 @@ I'm a highly motivated Software Developer, recently graduated from the Universit
 
 ## 💼 Experience
 
-**Backend Developer, GONA Agro Ltd.**  
-_MP, India | May 2024 – Aug. 2024_
-
-- Developed RESTful APIs in Node.js with Express for managing crop inventory and supplier records
-- Refactored monolithic backend into modular services, improving scalability and deployment efficiency
-- Integrated PostgreSQL for reliable data storage, writing optimized queries and using indexes to cut query time
+**Full Stack Developer, GONA Agro Ltd.**  
+_MP, India | May 2025 – Present_
 
 **Teaching Assistant, UBC Math Department**  
 _Vancouver, BC | September 2023 - April 2024_
-
-- Supported over 150 students in mastering advanced calculus concepts through weekly tutorials and office hours
-- Boosted calculus comprehension scores by 20% by providing tailored academic support and strategic review session
-- Enhanced student performance by delivering thorough, actionable feedback on assignments and common error patterns
 
 
 ## 🎓 Education
@@ -39,7 +31,7 @@ _Vancouver, BC | September 2023 - April 2024_
 _B.Sc. in Computer Engineering | September 2021 - April 2025_
 
 - Specializing in Software Engineering
-- GPA: 4.0/4.33 — Dean’s List
+- GPA: 3.6/4.0 — Dean’s List
 
 ## 📈 Goal
 I'm actively seeking software engineering opportunities to gain hands-on experience and contribute to innovative projects. I'm passionate about applying my knowledge in real-world applications, from backend development to full-stack projects.
