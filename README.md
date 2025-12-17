@@ -2,7 +2,7 @@
 
 **Software Developer(Backend/Fullstack) | University of British Columbia**
 
-📍 Vancouver, Canada | [bulandchoudharysolalita@gmail.com](mailto:bulandchoudhary1@gmail.com) |
+📍 Vancouver, Canada | [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/buland-choudhary) | [Portfolio](https://buland-choudhary.github.io/)
 
 ---
@@ -41,7 +41,7 @@ I'm actively seeking software engineering opportunities to gain hands-on experie
 - UBC Trek Excellence Scholarship 2022W - $4000
 
 ## 📫 Get in Touch
-Feel free to reach out via [email](mailto:bulandchoudharysolalita@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/buland-choudhary). I’m always open to discussing new opportunities or collaborations!  
+Feel free to reach out via [email](mailto:bulandchoudhary1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/buland-choudhary). I’m always open to discussing new opportunities or collaborations!  
 
 
 
