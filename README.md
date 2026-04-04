@@ -1,8 +1,8 @@
 # Hi there, I'm Buland Choudhary! 👋💻
 
-**Software Developer(Backend/Fullstack) | University of British Columbia**
+**Machine Learning Enthusiast | Stevens Institute of Technology | Computer Engineer | UBC 2025**
 
-📍 Vancouver, Canada | [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) |
+📍 Hoboken, NJ | [bulandchoudhary1@gmail.com](mailto:bulandchoudhary1@gmail.com) |
 [LinkedIn](https://www.linkedin.com/in/buland-choudhary) | [Portfolio](https://buland-choudhary.github.io/)
 
 ---
@@ -10,33 +10,30 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Buland-Choudhary)](https://github.com/Buland-Choudhary/github-profile-trophy) -->
 
 ## About Me
-I'm a highly motivated Software Developer, recently graduated from the University of British Columbia (UBC), specializing in Software Engineering. With a strong foundation in problem-solving and mathematics, I’m eager to leverage my technical skills and creativity in a Web Developer role. My goal is to contribute to impactful projects and continue growing as a developer.
-
+I am a **Machine Learning Graduate Student at Stevens Institute of Technology**, building upon a solid foundation in **Computer Engineering from the University of British Columbia (UBC)**. With a strong background in mathematics and full-stack development, I am passionate about building scalable AI solutions that solve complex real-world problems.
 ## 🔧 Skills
-- **Languages:** JavaScript, TypeScript, Java, Python, SQL, HTML, CSS
-- **Tools:** Git, GitHub, Postman, Linear, VS Code, BitBucket, Terminal, IntelliJ IDEA
-- **Strengths:** Problem-solving, detail-oriented, adaptable, team player, time management
+- **Machine Learning:** Python (NumPy, Pandas), Data Analysis, Building Models
+- **Languages:** JavaScript, TypeScript, Java, SQL, HTML, CSS
+- **Tools:** Git, GitHub, Docker, Postman, Linear, VS Code, BitBucket, IntelliJ IDEA
+- **Strengths:** Technical Leadership, Detail-oriented, Adaptable, Team Collaboration
 
 ## 💼 Experience
+**Full Stack Developer, GONA Agro Ltd.**
+_MP, India | May 2025 – Dec 2025_
 
-**Full Stack Developer, GONA Agro Ltd.**  
-_MP, India | May 2025 – Present_
-
-**Teaching Assistant, UBC Math Department**  
+**Teaching Assistant, UBC Math Department**
 _Vancouver, BC | September 2023 - April 2024_
 
-
 ## 🎓 Education
+
+**Stevens Institute of Technology, Hoboken, NJ**  
+_M.S. in Machine Learning | January 2026 – Present_
+
 **University of British Columbia, Vancouver**  
 _B.Sc. in Computer Engineering | September 2021 - April 2025_
 
-- Specializing in Software Engineering
-- GPA: 3.6/4.0 — Dean’s List
-
-## 📈 Goal
-I'm actively seeking software engineering opportunities to gain hands-on experience and contribute to innovative projects. I'm passionate about applying my knowledge in real-world applications, from backend development to full-stack projects.
-
 ## 🏆 Scholorships
+- Stevens Graduate Scholarship (2026) – $13,500
 - UBC Faculty of Applied Science International Student Scholarship 2023W - $9000
 - UBC Trek Excellence Scholarship 2022W - $4000
 
